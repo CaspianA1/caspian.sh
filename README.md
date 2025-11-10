@@ -1,3 +1,3 @@
 # caspian.sh
 
-This is the code for my personal website.
+This is my personal website.
