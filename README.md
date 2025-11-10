@@ -5,4 +5,4 @@ At Bowdoin, I spent a few years building a retro action-platformer game called [
 
 In my free time, you can find me taking apart my espresso gear, learning new languages, rock climbing, geeking out about computer graphics, and much more.
 
-[Here's](https://github.com/CaspianA1) my GitHub page.
+Here's my [GitHub](https://github.com/CaspianA1) page and my [LinkedIn](https://www.linkedin.com/in/caspian-ahlberg-167371175/).
